@@ -1,0 +1,91 @@
+2024-10-24 10:44:32.115 +05:30 [INF] Now listening on: https://localhost:7125
+2024-10-24 10:44:32.323 +05:30 [INF] Now listening on: http://localhost:5221
+2024-10-24 10:44:32.330 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-10-24 10:44:32.332 +05:30 [INF] Hosting environment: Development
+2024-10-24 10:44:32.333 +05:30 [INF] Content root path: C:\Users\Kamil Joseph\source\repos\HotelListing.API\HotelListing.API
+2024-10-24 11:55:53.862 +05:30 [INF] Now listening on: https://localhost:7125
+2024-10-24 11:55:53.896 +05:30 [INF] Now listening on: http://localhost:5221
+2024-10-24 11:55:53.900 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-10-24 11:55:53.902 +05:30 [INF] Hosting environment: Development
+2024-10-24 11:55:53.903 +05:30 [INF] Content root path: C:\Users\Kamil Joseph\source\repos\HotelListing.API\HotelListing.API
+2024-10-24 12:00:24.720 +05:30 [INF] Now listening on: https://localhost:7125
+2024-10-24 12:00:24.756 +05:30 [INF] Now listening on: http://localhost:5221
+2024-10-24 12:00:24.762 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-10-24 12:00:24.764 +05:30 [INF] Hosting environment: Development
+2024-10-24 12:00:24.765 +05:30 [INF] Content root path: C:\Users\Kamil Joseph\source\repos\HotelListing.API\HotelListing.API
+2024-10-24 12:03:25.018 +05:30 [INF] Now listening on: https://localhost:7125
+2024-10-24 12:03:25.177 +05:30 [INF] Now listening on: http://localhost:5221
+2024-10-24 12:03:25.254 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-10-24 12:03:25.278 +05:30 [INF] Hosting environment: Development
+2024-10-24 12:03:25.279 +05:30 [INF] Content root path: C:\Users\Kamil Joseph\source\repos\HotelListing.API\HotelListing.API
+2024-10-24 12:06:06.028 +05:30 [INF] Now listening on: https://localhost:7125
+2024-10-24 12:06:06.066 +05:30 [INF] Now listening on: http://localhost:5221
+2024-10-24 12:06:06.070 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-10-24 12:06:06.072 +05:30 [INF] Hosting environment: Development
+2024-10-24 12:06:06.073 +05:30 [INF] Content root path: C:\Users\Kamil Joseph\source\repos\HotelListing.API\HotelListing.API
+2024-10-24 12:35:07.632 +05:30 [INF] Now listening on: https://localhost:7125
+2024-10-24 12:35:07.670 +05:30 [INF] Now listening on: http://localhost:5221
+2024-10-24 12:35:07.674 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-10-24 12:35:07.675 +05:30 [INF] Hosting environment: Development
+2024-10-24 12:35:07.676 +05:30 [INF] Content root path: C:\Users\Kamil Joseph\source\repos\HotelListing.API\HotelListing.API
+2024-10-24 12:37:20.100 +05:30 [INF] Now listening on: https://localhost:7125
+2024-10-24 12:37:20.144 +05:30 [INF] Now listening on: http://localhost:5221
+2024-10-24 12:37:20.148 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-10-24 12:37:20.149 +05:30 [INF] Hosting environment: Development
+2024-10-24 12:37:20.150 +05:30 [INF] Content root path: C:\Users\Kamil Joseph\source\repos\HotelListing.API\HotelListing.API
+2024-10-24 12:39:33.545 +05:30 [INF] Now listening on: https://localhost:7125
+2024-10-24 12:39:33.584 +05:30 [INF] Now listening on: http://localhost:5221
+2024-10-24 12:39:33.588 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-10-24 12:39:33.590 +05:30 [INF] Hosting environment: Development
+2024-10-24 12:39:33.591 +05:30 [INF] Content root path: C:\Users\Kamil Joseph\source\repos\HotelListing.API\HotelListing.API
+2024-10-24 12:48:26.193 +05:30 [INF] Now listening on: https://localhost:7125
+2024-10-24 12:48:26.227 +05:30 [INF] Now listening on: http://localhost:5221
+2024-10-24 12:48:26.231 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-10-24 12:48:26.232 +05:30 [INF] Hosting environment: Development
+2024-10-24 12:48:26.233 +05:30 [INF] Content root path: C:\Users\Kamil Joseph\source\repos\HotelListing.API\HotelListing.API
+2024-10-24 12:52:13.375 +05:30 [INF] Now listening on: https://localhost:7125
+2024-10-24 12:52:13.440 +05:30 [INF] Now listening on: http://localhost:5221
+2024-10-24 12:52:13.449 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-10-24 12:52:13.450 +05:30 [INF] Hosting environment: Development
+2024-10-24 12:52:13.451 +05:30 [INF] Content root path: C:\Users\Kamil Joseph\source\repos\HotelListing.API\HotelListing.API
+2024-10-24 14:01:04.567 +05:30 [INF] Now listening on: https://localhost:7125
+2024-10-24 14:01:04.607 +05:30 [INF] Now listening on: http://localhost:5221
+2024-10-24 14:01:04.614 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-10-24 14:01:04.615 +05:30 [INF] Hosting environment: Development
+2024-10-24 14:01:04.616 +05:30 [INF] Content root path: C:\Users\Kamil Joseph\source\repos\HotelListing.API\HotelListing.API
+2024-10-24 14:19:31.206 +05:30 [INF] Now listening on: https://localhost:7125
+2024-10-24 14:19:31.243 +05:30 [INF] Now listening on: http://localhost:5221
+2024-10-24 14:19:31.249 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-10-24 14:19:31.252 +05:30 [INF] Hosting environment: Development
+2024-10-24 14:19:31.253 +05:30 [INF] Content root path: C:\Users\Kamil Joseph\source\repos\HotelListing.API\HotelListing.API
+2024-10-24 15:00:16.996 +05:30 [INF] Now listening on: https://localhost:7125
+2024-10-24 15:00:17.052 +05:30 [INF] Now listening on: http://localhost:5221
+2024-10-24 15:00:17.056 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-10-24 15:00:17.057 +05:30 [INF] Hosting environment: Development
+2024-10-24 15:00:17.058 +05:30 [INF] Content root path: C:\Users\Kamil Joseph\source\repos\HotelListing.API\HotelListing.API
+2024-10-24 15:01:27.467 +05:30 [INF] Book added: King Aurthur by Author 1
+2024-10-24 15:27:48.603 +05:30 [INF] Now listening on: https://localhost:7125
+2024-10-24 15:27:48.638 +05:30 [INF] Now listening on: http://localhost:5221
+2024-10-24 15:27:48.644 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-10-24 15:27:48.645 +05:30 [INF] Hosting environment: Development
+2024-10-24 15:27:48.646 +05:30 [INF] Content root path: C:\Users\Kamil Joseph\source\repos\HotelListing.API\HotelListing.API
+2024-10-24 15:29:56.701 +05:30 [INF] Now listening on: https://localhost:7125
+2024-10-24 15:29:56.741 +05:30 [INF] Now listening on: http://localhost:5221
+2024-10-24 15:29:56.747 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-10-24 15:29:56.748 +05:30 [INF] Hosting environment: Development
+2024-10-24 15:29:56.749 +05:30 [INF] Content root path: C:\Users\Kamil Joseph\source\repos\HotelListing.API\HotelListing.API
+2024-10-24 16:07:23.239 +05:30 [INF] Now listening on: https://localhost:7125
+2024-10-24 16:07:23.317 +05:30 [INF] Now listening on: http://localhost:5221
+2024-10-24 16:07:23.335 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-10-24 16:07:23.337 +05:30 [INF] Hosting environment: Development
+2024-10-24 16:07:23.340 +05:30 [INF] Content root path: C:\Users\Kamil Joseph\source\repos\HotelListing.API\HotelListing.API
+2024-10-24 16:29:44.936 +05:30 [INF] Now listening on: https://localhost:7125
+2024-10-24 16:29:44.977 +05:30 [INF] Now listening on: http://localhost:5221
+2024-10-24 16:29:44.982 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-10-24 16:29:44.984 +05:30 [INF] Hosting environment: Development
+2024-10-24 16:29:44.985 +05:30 [INF] Content root path: C:\Users\Kamil Joseph\source\repos\HotelListing.API\HotelListing.API
+2024-10-24 16:31:56.677 +05:30 [INF] Now listening on: https://localhost:7125
+2024-10-24 16:31:56.719 +05:30 [INF] Now listening on: http://localhost:5221
+2024-10-24 16:31:56.724 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-10-24 16:31:56.727 +05:30 [INF] Hosting environment: Development
+2024-10-24 16:31:56.732 +05:30 [INF] Content root path: C:\Users\Kamil Joseph\source\repos\HotelListing.API\HotelListing.API
